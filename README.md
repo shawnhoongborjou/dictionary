@@ -11,3 +11,6 @@ POC|Proof Of Concept
 RAT|Remote Access Trojan
 SIEM|Security Information and Event Management
 SOC|Security Operations Centre
+SQLi|SQL Injection
+XSS|Cross-site Scripting
+XXE|XML External Entity Injection
